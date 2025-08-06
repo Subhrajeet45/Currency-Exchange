@@ -13,7 +13,7 @@ A simple and interactive Currency Converter web application built using HTML, CS
 
 ## Demo
 
-![Currency Converter Screenshot](Screenshort.png) <!-- Add your screenshot if available -->
+![Currency Converter Screenshot](Screenshot.png) <!-- Add your screenshot if available -->
 
 ## Getting Started
 
@@ -69,4 +69,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Feel free to fork, contribute, or use this as a base for your own currency conversion projects!
+**Made by ❤️Subhrajeet Bhoi**
